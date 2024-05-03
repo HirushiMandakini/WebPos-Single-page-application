@@ -109,3 +109,8 @@
   color: var(--white);
 }
 
+
+.hidden {
+  display: none;
+}
+
